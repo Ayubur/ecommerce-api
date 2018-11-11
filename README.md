@@ -1,7 +1,6 @@
 # File Structure
 ├─ api/<br />
 ├─── config/<br />
-├────── core.php - file used for core configuration<br />
 ├────── database.php - file used for connecting to the database.<br />
 ├─── objects/<br />
 ├────── product.php - contains properties and methods for "product" database queries.<br />
